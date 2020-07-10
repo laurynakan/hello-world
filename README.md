@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello people,
+here is me trying to learn Front-End Web dev.
+Should be fun.
